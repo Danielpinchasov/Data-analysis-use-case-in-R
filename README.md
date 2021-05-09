@@ -12,7 +12,7 @@ Unfortunately, you do not know the meaning of the other variables (most of them 
 
 
 Tasks:
-Check whether there is a relationship between the product sold to the customer and his age, distinguishing between products that contain only natural materials and products that also contain artificial materials. Attach to your answer a diagram that visually describes the relationship described above.
+1. Check whether there is a relationship between the product sold to the customer and his age, distinguishing between products that contain only natural materials and products that also contain artificial materials. Attach to your answer a diagram that visually describes the relationship described above.
 
 2. The company's CFO believes that a model can be built that will explain the relationship between profit or loss generated in transactions with US customers in a better way than a model that will explain the same relationship for transactions with Swedish customers. Is the CFO's claim correct? Describe in your answer the characteristics of each of the models (including the best explanatory variables and the significance of the model).
 
