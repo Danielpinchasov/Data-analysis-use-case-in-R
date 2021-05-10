@@ -25,7 +25,7 @@ A. Briefly explain what actions you performed at each of the steps in the CRISP 
 
 B. What is the best model you have built? Why is this model better than the other models?
 
-c. Present the confusion matrix for the model you have chosen.
+C. Present the confusion matrix for the model you have chosen.
 
 D. Explain the actual meaning of the Recall, Precision and AUC values obtained in the best model.
 
